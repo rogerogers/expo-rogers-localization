@@ -39,11 +39,14 @@
     "preset": "expo-module-scripts"
   },
   "dependencies": {
+    "expo-modules-core": "^2.5.0",
     "rtl-detect": "^1.0.2"
   },
   "devDependencies": {
+    "@types/react": "^19.1.9",
     "@types/rtl-detect": "^1.0.3",
-    "expo-module-scripts": "^4.1.8"
+    "expo-module-scripts": "^4.1.8",
+    "typescript": "^5.9.2"
   },
   "peerDependencies": {
     "expo": "*",
